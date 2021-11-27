@@ -1,0 +1,4 @@
+ObjectName,Identifier
+Storefront_homepage_cookies_accept,//*[@id='accept']
+Storefront_homepage_search_textbox,//*[@id='searchbox']
+Storefront_homepage_search_button,//*[@id='submitt']
